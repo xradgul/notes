@@ -1,4 +1,4 @@
-# Antlr C++ Visitor pattern
+# Antlr C++ visitor pattern
 
 The visitor pattern implementation in Antlr is hard to use, to the point that it's infeasible to use in any serious project. The main cause:
 
